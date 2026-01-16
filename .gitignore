@@ -2,10 +2,10 @@
 .vscode
 .ipynb_checkpoints
 __pycache__
-data/
-backdoor-toolbox-main/
-models/
-abs_output/
-images/
-logs/
+data
+backdoor-toolbox-main
+models
+abs_output
+images
+logs
 
