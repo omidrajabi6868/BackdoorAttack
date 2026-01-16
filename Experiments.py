@@ -3,7 +3,7 @@ import torch
 import Network as N
 import matplotlib.pyplot as plt
 from utils import *
-# I want to check updating.
+
 class Experiment:
     def __init__(self, models,  clean_ins_outs, poisoned_ins_outs):
         self.models = models

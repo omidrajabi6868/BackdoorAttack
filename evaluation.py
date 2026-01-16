@@ -6,7 +6,6 @@ import numpy as np
 import copy
 import Network as N
 
-# I want to chck updating.
 def evaluation(model, dataset_name, batch_size, input_size, target_class, trigger_epochs, unlearning_epochs,
                testing_number):
     poison_transform = PoisonTransform(1.0, target_class, diff_location=False, diff_kernel=False)
