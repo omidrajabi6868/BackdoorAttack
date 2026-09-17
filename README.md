@@ -1,4 +1,4 @@
-Please cite this paper if you are using this code and approach: 
+Please cite this paper if you are using this code or method: 
 
 @ARTICLE{11474530,
   author={Rostami, Omid Rajabi and Ning, Rui and Xin, Chunsheng and Cho, Jin-Hee and Li, Jiang and Wu, Hongyi},
